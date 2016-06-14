@@ -6,5 +6,5 @@
     "devDependencies": {
     },
     "main": "index.js",
-    "ignore": [ ".gitignore", "bower.json", "component.json", "License", "Makefile", "package.json", "Readme.md" ]
+    "ignore": [ ".gitignore", "bower.json", "component.json", "License", "Makefile", "package.json", "Readme.md", "test" ]
 }
