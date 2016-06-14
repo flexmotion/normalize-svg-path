@@ -1,0 +1,10 @@
+{
+    "name": "normalize-svg-path",
+    "version": "1.0.0",
+    "authors": [{
+    ],
+    "devDependencies": {
+    },
+    "main": "index.js",
+    "ignore": [ ".gitignore", "bower.json", "component.json", "License", "Makefile", "package.json", "Readme.md" ]
+}

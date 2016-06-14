@@ -2,7 +2,9 @@
 var π = Math.PI
 var _120 = radians(120)
 
-module.exports = normalize
+if (typeof module === "object" && module.exports) {
+  module.exports = normalize;
+}
 
 /**
  * describe `path` in terms of cubic bézier
